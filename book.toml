@@ -4,3 +4,5 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "The Guide of Anti Censorship"
+
+[output.linkcheck]
