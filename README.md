@@ -4,7 +4,7 @@
 
 本指南目的在于，介绍一系列反审查的方式，以供记者、作家和艺术家等来分享、传播其作品。
 
-## 版权申明
+## 版权声明
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
